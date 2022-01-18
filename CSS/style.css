@@ -37,6 +37,10 @@
     margin-bottom: 50px;
 }
 
+#tablero .marcador2:hover {
+    background: rgb(65, 58, 58);
+}
+
 #tablero .marcador3{
     display: grid;
     float: right;
@@ -65,6 +69,10 @@
     margin-left: 10px;
     margin-right: 2px;
     margin-bottom: 50px;
+}
+
+#tablero .marcador4:hover {
+    background: rgb(65, 58, 58);
 }
 
 #tablero .marcador5{
@@ -97,6 +105,10 @@
     margin-bottom: 50px;
 }
 
+#tablero .marcador6:hover {
+    background: rgb(65, 58, 58);
+}
+
 #tablero .marcador7{
     display: grid;
     float: right;
@@ -125,6 +137,10 @@
     margin-left: 10px;
     margin-right: 2px;
     margin-bottom: 50px;
+}
+
+#tablero .marcador8:hover {
+    background: rgb(65, 58, 58);
 }
 
 
@@ -158,6 +174,10 @@
     margin-bottom: 50px;
 }
 
+#tablero .marcador10:hover {
+    background: rgb(65, 58, 58);
+}
+
 #tablero .marcador11{
     display: grid;
     float: right;
@@ -186,6 +206,10 @@
     margin-left: 10px;
     margin-right: 2px;
     margin-bottom: 50px;
+}
+
+#tablero .marcador12:hover {
+    background: rgb(65, 58, 58);
 }
 
 #tablero .marcador13{
