@@ -1,0 +1,205 @@
+.tablero{
+	border: 5px solid rgb(3, 0, 0);
+    background-color: rgb(77, 20, 3);
+    height: 950px;
+    width: 475px;
+    position: absolute;
+}
+
+#tablero .marcador1{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador2{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador3{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#tablero .marcador4{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador5{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#tablero .marcador6{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador7{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#tablero .marcador8{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+
+#tablero .marcador9{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#tablero .marcador10{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador11{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#tablero .marcador12{
+    display: grid;
+    float: right;
+    width: 83px;
+    height: 83px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-left: 10px;
+    margin-right: 2px;
+    margin-bottom: 50px;
+}
+
+#tablero .marcador13{
+    display: grid;
+    float: right;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(3, 0, 0);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #ac3304; 
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
