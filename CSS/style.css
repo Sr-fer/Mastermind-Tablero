@@ -6,7 +6,7 @@
     position: absolute;
 }
 
-#tablero .marcador1{
+#tablero .selector1{
     display: grid;
     float: right;
     width: 83px;
@@ -22,7 +22,7 @@
     margin-bottom: 50px;
 }
 
-#tablero .marcador2{
+#tablero .selector2{
     display: grid;
     float: right;
     width: 83px;
@@ -37,11 +37,11 @@
     margin-bottom: 50px;
 }
 
-#tablero .marcador2:hover {
+#tablero .selector2:hover {
     background: rgb(65, 58, 58);
 }
 
-#tablero .marcador3{
+#tablero .selector3{
     display: grid;
     float: right;
     width: 25px;
